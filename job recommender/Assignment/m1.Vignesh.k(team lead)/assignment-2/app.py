@@ -17,6 +17,7 @@ def homePage():
 def aboutPage():
     return render_template("about.html")
 
+
 @app.route("/signin", methods=["GET", "POST"])
 def signinpage():
     if request.method == "GET":
