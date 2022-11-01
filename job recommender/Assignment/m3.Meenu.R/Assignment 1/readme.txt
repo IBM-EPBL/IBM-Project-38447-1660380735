@@ -1,5 +1,0 @@
-NAME        : vignesh k
-REGISTER NO :710719104109
-COLLEGE     :Dr NGP INSTITUTE OIF TECHNOLOGY
-DESCRIPTION :Assignment 1:Portfolio
-Developed using HTML and CSS
